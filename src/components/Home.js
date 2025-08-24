@@ -80,7 +80,7 @@ const Home = () => {
 
           <div className="objectives-container">
             <div className="image-section">
-              <img src="Home.jpg" alt="Asia Academy" className="main-image" />
+              <img src="home.jpg" alt="Asia Academy" className="main-image" />
             </div>
 
             <div className="text-section">
